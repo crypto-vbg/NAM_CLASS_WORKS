@@ -1,1 +1,1 @@
-# NAM_CLASS_WORKS
+# Network analysis and Mining Class Works
